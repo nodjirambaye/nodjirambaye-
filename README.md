@@ -51,7 +51,7 @@ I'm open to:
 ## 📫 Let's Connect!
 
 - 📧 Email: penseteric@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/nodjira](https://linkedin.com/in/nodjira)  
+- 💼 LinkedIn: https://www.linkedin.com/in/nodjirambaye-penset-eric-6a1a591ab
 -  🌍Website: [nodjirambaye.github.io](https://nodjirambaye.github.io)
 
 ---
